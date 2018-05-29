@@ -1,7 +1,7 @@
 {
-  "author": "Maciej Małecki <smt116@gmail.com>",
+  "author": "Ryu Master <konstantin@chimaera.io>",
   "dependencies": {},
-  "description": "Loader for Node native extensions",
+  "description": "Loader for Node native extensions based on Maciej Małecki <smt116@gmail.com>, just fixed",
   "keywords": [
     "electron",
     "loader",
@@ -11,8 +11,8 @@
   ],
   "license": "MIT",
   "main": "index.js",
-  "name": "native-ext-loader",
-  "repository": "https://github.com/smt116/node-native-loader",
+  "name": "native-ext-loader-chimaera",
+  "repository": "https://github.com/RyuMaster/node-native-ext-loader",
   "scripts": {},
-  "version": "2.0.0"
+  "version": "2.0.1"
 }
